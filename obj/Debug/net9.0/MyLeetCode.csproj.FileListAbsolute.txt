@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\DS_Algos_PS\MyLeetCode\bin\Debug\net9.0\MyLeetCode.exe
+C:\Users\PC\source\repos\DS_Algos_PS\MyLeetCode\bin\Debug\net9.0\MyLeetCode.deps.json
+C:\Users\PC\source\repos\DS_Algos_PS\MyLeetCode\bin\Debug\net9.0\MyLeetCode.runtimeconfig.json
+C:\Users\PC\source\repos\DS_Algos_PS\MyLeetCode\bin\Debug\net9.0\MyLeetCode.dll
+C:\Users\PC\source\repos\DS_Algos_PS\MyLeetCode\bin\Debug\net9.0\MyLeetCode.pdb
+C:\Users\PC\source\repos\DS_Algos_PS\MyLeetCode\obj\Debug\net9.0\MyLeetCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\DS_Algos_PS\MyLeetCode\obj\Debug\net9.0\MyLeetCode.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\DS_Algos_PS\MyLeetCode\obj\Debug\net9.0\MyLeetCode.AssemblyInfo.cs
+C:\Users\PC\source\repos\DS_Algos_PS\MyLeetCode\obj\Debug\net9.0\MyLeetCode.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\DS_Algos_PS\MyLeetCode\obj\Debug\net9.0\MyLeetCode.dll
+C:\Users\PC\source\repos\DS_Algos_PS\MyLeetCode\obj\Debug\net9.0\refint\MyLeetCode.dll
+C:\Users\PC\source\repos\DS_Algos_PS\MyLeetCode\obj\Debug\net9.0\MyLeetCode.pdb
+C:\Users\PC\source\repos\DS_Algos_PS\MyLeetCode\obj\Debug\net9.0\MyLeetCode.genruntimeconfig.cache
+C:\Users\PC\source\repos\DS_Algos_PS\MyLeetCode\obj\Debug\net9.0\ref\MyLeetCode.dll

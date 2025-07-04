@@ -1,12 +1,12 @@
 ﻿
-int[] nums = {1,2,4,8,2 };
+int[] nums = { 0, 1 };
 
-Console.WriteLine(ContainsDublicate(nums));
-
-
+Console.WriteLine(MissingNumber(nums));
 
 
-bool ContainsDublicate(int[]nums)
+
+
+bool ContainsDuplicate(int[]nums)
 {
     HashSet<int> set = new HashSet<int>();
 
@@ -17,6 +17,24 @@ bool ContainsDublicate(int[]nums)
 
         set.Add(item);
     }
-
+    
     return false;
+}
+
+
+int MissingNumber(int[]nums)
+{
+    Array.Sort(nums);
+
+    for (global::System.Int32 i = 0; i < nums.Length; i++)
+    {
+        if (nums[i] != i)
+            return i;
+
+        if (i == nums.Length - 1)
+            return i + 1;
+    }
+
+  
+        return -1;
 }

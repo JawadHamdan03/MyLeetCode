@@ -12,3 +12,4 @@ C:\Users\PC\source\repos\DS_Algos_PS\MyLeetCode\obj\Debug\net9.0\refint\MyLeetCo
 C:\Users\PC\source\repos\DS_Algos_PS\MyLeetCode\obj\Debug\net9.0\MyLeetCode.pdb
 C:\Users\PC\source\repos\DS_Algos_PS\MyLeetCode\obj\Debug\net9.0\MyLeetCode.genruntimeconfig.cache
 C:\Users\PC\source\repos\DS_Algos_PS\MyLeetCode\obj\Debug\net9.0\ref\MyLeetCode.dll
+C:\Users\PC\source\repos\DS_Algos_PS\MyLeetCode\obj\Debug\net9.0\MyLeetCode.sourcelink.json
